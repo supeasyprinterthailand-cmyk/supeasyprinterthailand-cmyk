@@ -1,16 +1,13 @@
-## Hi there 👋
+# Easyprintbarbel V2 — ดาวน์โหลด
 
-<!--
-**supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+แอปพิมพ์สติกเกอร์ / ฉลาก / ใบเสร็จ ของ EasyPrint Thailand
 
-Here are some ideas to get you started:
+👉 **[ดาวน์โหลดเวอร์ชันล่าสุด](../../releases/latest)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| เครื่อง | ไฟล์ |
+|---|---|
+| มือถือ / แท็บเล็ต Android | `Easyprintbarbel-V2-<เวอร์ชัน>.apk` |
+| คอม Windows | `Easyprintbarbel-V2-PC-<เวอร์ชัน>.zip` |
+| คอม Mac | `Easyprintbarbel-V2-Mac-<เวอร์ชัน>.pkg` |
+
+แอปที่ติดตั้งแล้วจะตรวจหาเวอร์ชันใหม่จากหน้านี้เองตอนเปิดแอป
