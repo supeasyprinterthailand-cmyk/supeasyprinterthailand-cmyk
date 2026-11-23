@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-alpha29",
-  "code": 228,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha29.apk",
+  "version": "2.0.0-alpha30",
+  "code": 229,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha30.apk",
   "pc": "",
   "mac": "",
-  "notes": "หน้าออกแบบ: ซูมด้วยนิ้วและปุ่มแว่นขยาย หมุนจอแนวนอน/แนวตั้ง ไม้บรรทัดอ่านง่ายและขยายตามซูม"
+  "notes": "เทมเพลตแทรกได้หลายแบบไม่ทับงานเดิม · Excel ลิงก์ทุกแถว/ปลดลิงก์เฉพาะดวง · จำค่าที่พิมพ์ครั้งก่อน · ไอคอนแถบหน้า"
 }
