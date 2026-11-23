@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-alpha28",
-  "code": 227,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha28.apk",
+  "version": "2.0.0-alpha29",
+  "code": 228,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha29.apk",
   "pc": "",
   "mac": "",
-  "notes": "พรีเซ็ตกระดาษ: ขนาด ชนิดกระดาษ ทิศทาง ความเข้ม ความเร็ว ในชื่อเดียว ใช้ได้ทั้งสร้างงาน พิมพ์ไฟล์ และเว็บ"
+  "notes": "หน้าออกแบบ: ซูมด้วยนิ้วและปุ่มแว่นขยาย หมุนจอแนวนอน/แนวตั้ง ไม้บรรทัดอ่านง่ายและขยายตามซูม"
 }
