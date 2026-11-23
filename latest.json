@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-alpha30",
-  "code": 229,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha30.apk",
+  "version": "2.0.0-alpha31",
+  "code": 230,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha31.apk",
   "pc": "",
   "mac": "",
-  "notes": "เทมเพลตแทรกได้หลายแบบไม่ทับงานเดิม · Excel ลิงก์ทุกแถว/ปลดลิงก์เฉพาะดวง · จำค่าที่พิมพ์ครั้งก่อน · ไอคอนแถบหน้า"
+  "notes": "ปุ่มเปิดไฟล์ PDF ค้างด้านล่าง + ตัวกรอง · พิมพ์ข้อความในป๊อปอัพ · จัดกลุ่ม (ย่อขยาย/ฟอนต์/หมุนทั้งกลุ่ม)"
 }
