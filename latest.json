@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-alpha31",
-  "code": 230,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha31.apk",
+  "version": "2.0.0-alpha32",
+  "code": 231,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha32.apk",
   "pc": "",
   "mac": "",
-  "notes": "ปุ่มเปิดไฟล์ PDF ค้างด้านล่าง + ตัวกรอง · พิมพ์ข้อความในป๊อปอัพ · จัดกลุ่ม (ย่อขยาย/ฟอนต์/หมุนทั้งกลุ่ม)"
+  "notes": "เลขเวอร์ชันในหน้าข้อมูลแอปของ Android และตัวติดตั้ง Mac เปลี่ยนตามจริง"
 }
