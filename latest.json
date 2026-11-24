@@ -1,8 +1,9 @@
 {
-  "version": "2.0.0-alpha32",
-  "code": 231,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-2.0.0-alpha32.apk",
+  "version": "2.0.0-alpha33",
+  "display": "alpha33",
+  "code": 232,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha33.apk",
   "pc": "",
   "mac": "",
-  "notes": "เลขเวอร์ชันในหน้าข้อมูลแอปของ Android และตัวติดตั้ง Mac เปลี่ยนตามจริง"
+  "notes": "ชื่อเวอร์ชันสั้นลงเป็น alpha33 (เอา 2.0.0 ออก)"
 }
