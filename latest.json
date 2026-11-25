@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha41",
-  "display": "alpha41",
-  "code": 240,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha41.apk",
+  "version": "2.0.0-alpha42",
+  "display": "alpha42",
+  "code": 241,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha42.apk",
   "pc": "",
   "mac": "",
-  "notes": "แก้ตัวอย่างฉลากยาซ้อนทับปุ่มบนจอ PC"
+  "notes": "Windows/Mac ไม่มีเมนูข้าง · หน้าออกแบบเมนูครบด้านซ้าย · เพิ่มข้อความแบบป็อปอัพ · ลากมุมขยายตัวหนังสือ · นำเข้าแบบฉลากยา"
 }
