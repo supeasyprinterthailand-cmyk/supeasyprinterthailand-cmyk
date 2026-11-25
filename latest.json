@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha34",
-  "display": "alpha34",
-  "code": 233,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha34.apk",
+  "version": "2.0.0-alpha35",
+  "display": "alpha35",
+  "code": 234,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha35.apk",
   "pc": "",
   "mac": "",
-  "notes": "ขนาดที่เคยสร้างแสดงให้เลือก · จำนวนดวงต่อแถวใส่เองได้"
+  "notes": "เมนูใหม่ ฉลากยา: สแกนบัตรประชาชน รายการยา+สต็อก แบบฉลากยาสำเร็จรูป ประวัติการจ่ายยา"
 }
