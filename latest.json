@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha37",
-  "display": "alpha37",
-  "code": 236,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha37.apk",
+  "version": "2.0.0-alpha38",
+  "display": "alpha38",
+  "code": 237,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha38.apk",
   "pc": "",
   "mac": "",
-  "notes": "ฉลากยาแยกหน้า 1/2/3 · หัวฉลากคลินิก/โรงพยาบาล · แบบฉลากยา 6 แบบ · เพิ่ม/แก้คนไข้ + เบอร์โทร"
+  "notes": "ฉลากยา: กำหนดขนาดเองได้ · แก้แบบ/ปรับขนาดในหน้าออกแบบแล้วจำเป็นค่าเริ่มต้น"
 }
