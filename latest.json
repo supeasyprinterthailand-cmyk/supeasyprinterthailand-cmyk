@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha33",
-  "display": "alpha33",
-  "code": 232,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha33.apk",
+  "version": "2.0.0-alpha34",
+  "display": "alpha34",
+  "code": 233,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha34.apk",
   "pc": "",
   "mac": "",
-  "notes": "ชื่อเวอร์ชันสั้นลงเป็น alpha33 (เอา 2.0.0 ออก)"
+  "notes": "ขนาดที่เคยสร้างแสดงให้เลือก · จำนวนดวงต่อแถวใส่เองได้"
 }
