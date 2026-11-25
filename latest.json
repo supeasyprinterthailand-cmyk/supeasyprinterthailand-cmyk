@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha38",
-  "display": "alpha38",
-  "code": 237,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha38.apk",
+  "version": "2.0.0-alpha39",
+  "display": "alpha39",
+  "code": 238,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha39.apk",
   "pc": "",
   "mac": "",
-  "notes": "ฉลากยา: กำหนดขนาดเองได้ · แก้แบบ/ปรับขนาดในหน้าออกแบบแล้วจำเป็นค่าเริ่มต้น"
+  "notes": "ฉลากยา: เรียงหัวข้อใหม่ · ซ่อน/แสดงคลินิก-คนไข้ · จัดฉลากพอดีตามข้อมูล · ฉลากภาษาอังกฤษ/จีน/สองภาษา"
 }
