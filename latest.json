@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha35",
-  "display": "alpha35",
-  "code": 234,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha35.apk",
+  "version": "2.0.0-alpha36",
+  "display": "alpha36",
+  "code": 235,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha36.apk",
   "pc": "",
   "mac": "",
-  "notes": "เมนูใหม่ ฉลากยา: สแกนบัตรประชาชน รายการยา+สต็อก แบบฉลากยาสำเร็จรูป ประวัติการจ่ายยา"
+  "notes": "สแกนข้อความจากรูป (แม่นขึ้น คัดลอกได้) · ฉลากยาหลายหน้า · กดอัปเดตแล้วติดตั้งในแอปได้เลย"
 }
