@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha43",
-  "display": "alpha43",
-  "code": 242,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha43.apk",
+  "version": "2.0.0-alpha44",
+  "display": "alpha44",
+  "code": 243,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha44.apk",
   "pc": "",
   "mac": "",
-  "notes": "แบบฉลากยาที่นำเข้าเติมข้อมูลอัตโนมัติ (ช่องว่าง ____ ช่องติ๊ก □ [วงเล็บ]) · เคลียเส้นว่างออก"
+  "notes": "เทมเพลตฉลากยาทำใหม่ (ไม่มีเส้น ____ ตัวอย่างแสดง ........) · หน้าฉลากยาเรียบขึ้น"
 }
