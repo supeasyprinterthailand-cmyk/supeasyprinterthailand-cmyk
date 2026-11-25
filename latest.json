@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha40",
-  "display": "alpha40",
-  "code": 239,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha40.apk",
+  "version": "2.0.0-alpha41",
+  "display": "alpha41",
+  "code": 240,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha41.apk",
   "pc": "",
   "mac": "",
-  "notes": "เปลี่ยนขนาดกระดาษในหน้าออกแบบ: เลือกปรับให้พอดีอัตโนมัติ / ปรับขนาดเอง (เลือกทั้งหมดเป็นกลุ่ม) / ไม่ปรับ"
+  "notes": "แก้ตัวอย่างฉลากยาซ้อนทับปุ่มบนจอ PC"
 }
