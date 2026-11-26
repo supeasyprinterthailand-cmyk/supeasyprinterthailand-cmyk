@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha44",
-  "display": "alpha44",
-  "code": 243,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha44.apk",
+  "version": "2.0.0-alpha45",
+  "display": "alpha45",
+  "code": 244,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha45.apk",
   "pc": "",
   "mac": "",
-  "notes": "เทมเพลตฉลากยาทำใหม่ (ไม่มีเส้น ____ ตัวอย่างแสดง ........) · หน้าฉลากยาเรียบขึ้น"
+  "notes": "เส้นเติมแบบ Word (จุด/เส้น/เส้นประ) พิมพ์ทับได้ · รายการยาที่ใช้บ่อย · ลากคลุม+คลิกขวา · เมาส์เลื่อนแถบได้ · หน้าออกแบบใหม่ บันทึก/แชร์ไฟล์ .epbl PDF PNG JPEG"
 }
