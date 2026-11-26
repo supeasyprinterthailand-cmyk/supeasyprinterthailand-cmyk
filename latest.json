@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha48",
-  "display": "alpha48",
-  "code": 247,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha48.apk",
+  "version": "2.0.0-alpha49",
+  "display": "alpha49",
+  "code": 248,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha49.apk",
   "pc": "",
   "mac": "",
-  "notes": "คู่มือการใช้งานใหม่ในแอป 5 ภาษา (ตามภาษาแอป) พร้อมภาพหน้าจอและตัวอย่าง + คู่มือ PDF ไทย/อังกฤษ"
+  "notes": "สแกนข้อความแม่นขึ้นมาก (PaddleOCR ไทย+อังกฤษ ในเครื่อง ใช้ได้ทุกระบบ) + ไฮไลต์ข้อความแล้วคัดลอกได้ ทุกหน้าที่มีสแกน"
 }
