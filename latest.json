@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha46",
-  "display": "alpha46",
-  "code": 245,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha46.apk",
+  "version": "2.0.0-alpha47",
+  "display": "alpha47",
+  "code": 246,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha47.apk",
   "pc": "",
   "mac": "",
-  "notes": "เส้นเติมเลือกตำแหน่งได้ (ใต้/ต่อท้าย/เหนือ) · ดับเบิลคลิกพิมพ์แก้บนงาน · ไม่เก็บงานเปล่า · หน้าแรกฉลากยาแถบเต็ม"
+  "notes": "ฉลากยา 9 ภาษา (+ ไทย ไทยอยู่บน) · ปุ่มเพิ่มรายการอยู่บนตลอด · แตะชื่อยาเพื่อแก้ไข"
 }
