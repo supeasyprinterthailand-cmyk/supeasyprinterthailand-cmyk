@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha61",
-  "display": "alpha61",
-  "code": 260,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha61.apk",
+  "version": "2.0.0-alpha62",
+  "display": "alpha62",
+  "code": 261,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha62.apk",
   "pc": "",
   "mac": "",
-  "notes": "แทรกชิ้นงานวางทันที · แทรกรูปเปิดหน้าปรับเต็มจอ · ไม้บรรทัดไม่หมุนตามกระดาษ"
+  "notes": "พิมพ์ PDF: เริ่มต้นต้นฉบับ/0° · ฟิลเตอร์แตะเปิดข้างปุ่มครอป · ครอปแยกหน้า (ค่าหลัก = หน้าแรก)"
 }
