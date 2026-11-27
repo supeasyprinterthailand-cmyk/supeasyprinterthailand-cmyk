@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha55",
-  "display": "alpha55",
-  "code": 254,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha55.apk",
+  "version": "2.0.0-alpha56",
+  "display": "alpha56",
+  "code": 255,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha56.apk",
   "pc": "",
   "mac": "",
-  "notes": "สร้างบาร์โค้ด: นำเข้า Excel / CSV / Google Sheet และสแกนบาร์โค้ด+ข้อความจากรูป"
+  "notes": "ฟิลเตอร์ขาวดำใหม่ 6 แบบ · ลายเส้นสะอาดขึ้น · พิมพ์รูป/PDF ใช้ฟิลเตอร์ได้"
 }
