@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha52",
-  "display": "alpha52",
-  "code": 251,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha52.apk",
+  "version": "2.0.0-alpha53",
+  "display": "alpha53",
+  "code": 252,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha53.apk",
   "pc": "",
   "mac": "",
-  "notes": "หมายเหตุตัวแดงในส่งพัสดุและฉลากยา: เป็นแค่เครื่องมือพิมพ์ ไม่เกี่ยวกับขนส่ง/ไม่ใช่โปรแกรมคลินิก"
+  "notes": "เมนูใหม่สร้างบาร์โค้ด (ยิง/วางหลายรายการ → รายการละหน้า) · ส่งพัสดุใช้แบบของฉัน/นำเข้าแบบได้ · ใบปะหน้า 9 ภาษา"
 }
