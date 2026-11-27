@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha54",
-  "display": "alpha54",
-  "code": 253,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha54.apk",
+  "version": "2.0.0-alpha55",
+  "display": "alpha55",
+  "code": 254,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha55.apk",
   "pc": "",
   "mac": "",
-  "notes": "หมายเหตุตัวแดงในสร้างบาร์โค้ด: เป็นแค่เครื่องมือพิมพ์ ไม่ตัดสต็อก ไม่บันทึกเข้าระบบ"
+  "notes": "สร้างบาร์โค้ด: นำเข้า Excel / CSV / Google Sheet และสแกนบาร์โค้ด+ข้อความจากรูป"
 }
