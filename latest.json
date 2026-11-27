@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha53",
-  "display": "alpha53",
-  "code": 252,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha53.apk",
+  "version": "2.0.0-alpha54",
+  "display": "alpha54",
+  "code": 253,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha54.apk",
   "pc": "",
   "mac": "",
-  "notes": "เมนูใหม่สร้างบาร์โค้ด (ยิง/วางหลายรายการ → รายการละหน้า) · ส่งพัสดุใช้แบบของฉัน/นำเข้าแบบได้ · ใบปะหน้า 9 ภาษา"
+  "notes": "หมายเหตุตัวแดงในสร้างบาร์โค้ด: เป็นแค่เครื่องมือพิมพ์ ไม่ตัดสต็อก ไม่บันทึกเข้าระบบ"
 }
