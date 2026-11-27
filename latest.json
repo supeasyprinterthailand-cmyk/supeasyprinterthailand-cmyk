@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha56",
-  "display": "alpha56",
-  "code": 255,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha56.apk",
+  "version": "2.0.0-alpha57",
+  "display": "alpha57",
+  "code": 256,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha57.apk",
   "pc": "",
   "mac": "",
-  "notes": "ฟิลเตอร์ขาวดำใหม่ 6 แบบ · ลายเส้นสะอาดขึ้น · พิมพ์รูป/PDF ใช้ฟิลเตอร์ได้"
+  "notes": "หน้าพิมพ์รูปภาพใหม่: ประวัติรูป ปรับฟิลเตอร์/ครอป/หมุน/จำนวนแยกทีละรูป จำค่ากระดาษ"
 }
