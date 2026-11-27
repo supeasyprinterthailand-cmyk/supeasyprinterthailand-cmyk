@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha51",
-  "display": "alpha51",
-  "code": 250,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha51.apk",
+  "version": "2.0.0-alpha52",
+  "display": "alpha52",
+  "code": 251,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha52.apk",
   "pc": "",
   "mac": "",
-  "notes": "ปุ่มลอยกลับแอปบน Google Lens · สแกนรูปมาสร้างงานใหม่ (ข้อความวางตำแหน่งเดิม) · สแกนข้อความในพิมพ์รูป/PDF"
+  "notes": "หมายเหตุตัวแดงในส่งพัสดุและฉลากยา: เป็นแค่เครื่องมือพิมพ์ ไม่เกี่ยวกับขนส่ง/ไม่ใช่โปรแกรมคลินิก"
 }
