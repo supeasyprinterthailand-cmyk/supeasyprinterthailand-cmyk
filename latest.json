@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha60",
-  "display": "alpha60",
-  "code": 259,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha60.apk",
+  "version": "2.0.0-alpha61",
+  "display": "alpha61",
+  "code": 260,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha61.apk",
   "pc": "",
   "mac": "",
-  "notes": "พิมพ์ PDF หน้าใหม่แบบเดียวกับพิมพ์รูป ตั้งค่าแยกทีละไฟล์ · แก้แอปเด้งตอนเลือก PDF"
+  "notes": "แทรกชิ้นงานวางทันที · แทรกรูปเปิดหน้าปรับเต็มจอ · ไม้บรรทัดไม่หมุนตามกระดาษ"
 }
