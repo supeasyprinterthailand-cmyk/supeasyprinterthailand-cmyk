@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha59",
-  "display": "alpha59",
-  "code": 258,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha59.apk",
+  "version": "2.0.0-alpha60",
+  "display": "alpha60",
+  "code": 259,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha60.apk",
   "pc": "",
   "mac": "",
-  "notes": "พิมพ์รูปภาพ: นำเข้าแล้วเปิดหน้าปรับรูปทันที หลายรูปใช้ค่าเดียวกับรูปแรก"
+  "notes": "พิมพ์ PDF หน้าใหม่แบบเดียวกับพิมพ์รูป ตั้งค่าแยกทีละไฟล์ · แก้แอปเด้งตอนเลือก PDF"
 }
