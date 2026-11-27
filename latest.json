@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha57",
-  "display": "alpha57",
-  "code": 256,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha57.apk",
+  "version": "2.0.0-alpha58",
+  "display": "alpha58",
+  "code": 257,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha58.apk",
   "pc": "",
   "mac": "",
-  "notes": "หน้าพิมพ์รูปภาพใหม่: ประวัติรูป ปรับฟิลเตอร์/ครอป/หมุน/จำนวนแยกทีละรูป จำค่ากระดาษ"
+  "notes": "พิมพ์รูปภาพ: ตั้งค่ากระดาษ/ฟิลเตอร์/ครอปแยกทีละรูป จำไว้กับรูป พิมพ์ซ้ำได้ทันที"
 }
