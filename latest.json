@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha50",
-  "display": "alpha50",
-  "code": 249,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha50.apk",
+  "version": "2.0.0-alpha51",
+  "display": "alpha51",
+  "code": 250,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha51.apk",
   "pc": "",
   "mac": "",
-  "notes": "สแกนแบบ Google Lens: เปิดกล้อง คัดลอก แล้วกลับมาวางให้อัตโนมัติ (คอม: ตัดภาพหน้าจอแล้วอ่านให้เอง)"
+  "notes": "ปุ่มลอยกลับแอปบน Google Lens · สแกนรูปมาสร้างงานใหม่ (ข้อความวางตำแหน่งเดิม) · สแกนข้อความในพิมพ์รูป/PDF"
 }
