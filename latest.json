@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha65",
-  "display": "alpha65",
-  "code": 264,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha65.apk",
+  "version": "2.0.0-alpha66",
+  "display": "alpha66",
+  "code": 265,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha66.apk",
   "pc": "",
   "mac": "",
-  "notes": "คลัง (บันทึกชุดชิ้นงานไว้ใช้เอง) · จับคู่ช่องข้อมูลให้แบบที่นำเข้า (ส่งพัสดุ/ฉลากยา/บาร์โค้ด) · แตะชื่องานเพื่อแก้ชื่อ/ขนาด · ขยับพิมพ์เขียวเอง"
+  "notes": "แถบด้านบนหน้าสร้างแบบใหม่ เรียบง่าย กดง่าย"
 }
