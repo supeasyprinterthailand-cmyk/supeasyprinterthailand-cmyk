@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha62",
-  "display": "alpha62",
-  "code": 261,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha62.apk",
+  "version": "2.0.0-alpha63",
+  "display": "alpha63",
+  "code": 262,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha63.apk",
   "pc": "",
   "mac": "",
-  "notes": "พิมพ์ PDF: เริ่มต้นต้นฉบับ/0° · ฟิลเตอร์แตะเปิดข้างปุ่มครอป · ครอปแยกหน้า (ค่าหลัก = หน้าแรก)"
+  "notes": "สร้างงาน: ตัวอย่างขนาดกระดาษ + รูปทรง · ดวงต่อแถวสมดุล · พิมพ์รูป/PDF ครอปก่อนฟิลเตอร์"
 }
