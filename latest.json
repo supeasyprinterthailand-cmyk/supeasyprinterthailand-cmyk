@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha64",
-  "display": "alpha64",
-  "code": 263,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha64.apk",
+  "version": "2.0.0-alpha65",
+  "display": "alpha65",
+  "code": 264,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha65.apk",
   "pc": "",
   "mac": "",
-  "notes": "พิมพ์เขียว: หมวดกระดาษคาดกล่องขนม 4 แบบ · สร้างงานใหม่เลือกพิมพ์เขียว/แทรกรูปได้"
+  "notes": "คลัง (บันทึกชุดชิ้นงานไว้ใช้เอง) · จับคู่ช่องข้อมูลให้แบบที่นำเข้า (ส่งพัสดุ/ฉลากยา/บาร์โค้ด) · แตะชื่องานเพื่อแก้ชื่อ/ขนาด · ขยับพิมพ์เขียวเอง"
 }
