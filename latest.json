@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha67",
-  "display": "alpha67",
-  "code": 266,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha67.apk",
+  "version": "2.0.0-alpha68",
+  "display": "alpha68",
+  "code": 267,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha68.apk",
   "pc": "",
   "mac": "",
-  "notes": "เส้น 15 แบบ · รูปทรง 37 แบบ พร้อมลายพื้น/แรเงา 20 แบบ และเส้นขอบ 9 แบบ"
+  "notes": "เอาปุ่มบันทึกออก · ปุ่มลบหน้า · ค้นหาในทุกหน้า · เครื่องมือด้านล่างหลายแถว · คลังจัดเก็บเทมเพลท"
 }
