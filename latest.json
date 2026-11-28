@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha63",
-  "display": "alpha63",
-  "code": 262,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha63.apk",
+  "version": "2.0.0-alpha64",
+  "display": "alpha64",
+  "code": 263,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha64.apk",
   "pc": "",
   "mac": "",
-  "notes": "สร้างงาน: ตัวอย่างขนาดกระดาษ + รูปทรง · ดวงต่อแถวสมดุล · พิมพ์รูป/PDF ครอปก่อนฟิลเตอร์"
+  "notes": "พิมพ์เขียว: หมวดกระดาษคาดกล่องขนม 4 แบบ · สร้างงานใหม่เลือกพิมพ์เขียว/แทรกรูปได้"
 }
