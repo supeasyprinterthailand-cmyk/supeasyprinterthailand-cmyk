@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0-alpha68",
-  "display": "alpha68",
-  "code": 267,
-  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha68.apk",
+  "version": "2.0.0-alpha69",
+  "display": "alpha69",
+  "code": 268,
+  "apk": "https://github.com/supeasyprinterthailand-cmyk/supeasyprinterthailand-cmyk/raw/main/Easyprintbarbel-V2-alpha69.apk",
   "pc": "",
   "mac": "",
-  "notes": "เอาปุ่มบันทึกออก · ปุ่มลบหน้า · ค้นหาในทุกหน้า · เครื่องมือด้านล่างหลายแถว · คลังจัดเก็บเทมเพลท"
+  "notes": "เลือกชิ้นงานแล้วแผงตั้งค่าขึ้นแทนเมนูไอคอนด้านล่าง"
 }
